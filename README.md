@@ -1,4 +1,2 @@
-# WebChat
-IMERSのWeb版作ってます。
-ChangeLog
+#ChangeLog
 Ver0.01(α)　アルファ版公開
